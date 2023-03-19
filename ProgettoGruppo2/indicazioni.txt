@@ -1,0 +1,119 @@
+FONT E COLORI
+
+Body: #000 – 1.5rem – Fira Sans – interlinea 1.8
+Headings: interlinea 1/1.1/1.2
+H1: 4rem
+H2: 3.5rem
+A / Icone: color #e42424
+Pulsante: 1.9rem – white
+
+Colori sfondo:
+
+Header: white
+Pulsanti: gradiente da #6cc1e2 a #392f7a
+Sezione Scrivici: #0c0633
+Righe tabella: #d2dce7
+Footer: rgb(238, 238, 238);
+
+Bordi e ombre:
+
+Header: box shadow #d3d3d3;
+
+TESTI
+HOME
+
+Diventa un developer EPICO
+
+Diventa un developer EPICO e ti troviamo noi il lavoro. Scommettiamo su di te: paghi metà corso, l'altra metà solo quando inizi a lavorare.
+Chiedi info
+
+
+Perché diventare un Developer?
+
+Non servono laurea e competenze specifiche, solo impegno.
+Segui il corso online, dove vuoi tu.
+Il lavoro che andrai a fare è veramente figo.
+
+Tutti ti cercheranno
+
+Sono 30.000 in Italia le posizioni di developer scoperte, scegli quella che ti stimola di più.
+Potrai lavorare dove vuoi
+
+Non serve lavorare in ufficio per essere creatori di prodotti digitali, e le aziende lo sanno. Lavora da casa, in riva al mare o in montagna.
+Azienda, Freelance o Startup
+
+Scegli più facilmente la carriera e il rapporto di lavoro che ti piace di più, in qualsiasi momento.
+
+
+Ma chi è il Developer oggi?
+
+Se non lo sai te lo diciamo noi: il futuro è dei developer
+Scrivici!
+
+Chi sarai
+
+Il creatore delle app che usi tutti i giorni
+Chi diventerai
+
+Lo specialista padrone del suo tempo e spazio
+Chi non sarai
+
+Il nerd incollato allo schermo
+
+---------------------------------------
+
+CHI SIAMO
+
+We are coder
+
+Challenge Network nasce con l’obiettivo di rivoluzionare la formazione in ambito tech. Vogliamo essere il movimento dei creatori digitali che il mercato richiede: formiamo, forniamo e aggiorniamo specialisti con la missione di trasformare le aziende dall’interno e offrire ai giovani sicure prospettive di carriera. Siamo a Roma ma arriviamo in tutta Italia, per creare la community che rivoluzionerà il mondo del lavoro.
+
+Investiamo sul talento e vogliamo dimostrartelo: effettua un colloquio di selezione per accedere ad una delle 5 borse di studio disponibili.
+
+Riceverai subito l’esito, quindi ti consigliamo di contattarci prima che le borse di studio si esauriscano: contattaci e candidati subito
+
+Prezzi dei corsi 
+Base
+500€ +iva 	
+30 ore di formazione
+Supporto post corso
+Stage aziendale
+
+Intermedio
+1000€ +iva 	
+Tutte le caratteristiche del corso base
+Rateazione in 12 mesi
+Ripetizione del corso
+
+Avanzato
+2000€ +iva
+Tutte le caratteristiche del corso intermedio
+Video registrazioni
+Supporto 24h dedicato
+
+---------------------------------------
+
+CONTATTI
+
+Sede formativa
+Via Appia 1
+00100 Roma (RM)
+info@challenge.it
++39 0612345956
+Lavora con noi
+
+Per poterti candidare ad un ruolo da docente invia il tuo cv a job@challenge.it
+
+---------------------------------------
+
+FOOTER
+
+Chi siamo
+
+Challenge Network nasce con l’obiettivo di rivoluzionare la formazione in ambito tech.
+
+Ti piace ciò che vedi? Condividilo con i tuoi amici!
+
+Iscriviti alla nostra newsletter
+
+© 2023 Challenge Network school - Via Appia 1, 00100 Roma (RM) - Tel. 06-12345678
